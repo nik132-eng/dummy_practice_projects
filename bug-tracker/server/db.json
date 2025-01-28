@@ -1,0 +1,11 @@
+{
+    "bugs": [
+      {
+        "id": "1",
+        "title": "Homepage crashes on load",
+        "description": "Users report white screen on homepage",
+        "severity": "high",
+        "status": "open"
+      }
+    ]
+  }
